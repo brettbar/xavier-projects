@@ -1,0 +1,36 @@
+body {
+    background-color: #005EB1;
+}
+
+div.cards {
+    display: flex;
+}
+
+div.fruit-card {
+    background-color: #363636;
+    color: #ffffff;
+    max-width: 15rem;
+    margin: 1rem; 
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+div.fruit-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+div.fruit-card h1 {
+    padding: 0.5rem;
+    text-align: center;
+}
+
+div img {
+    width: 15rem;
+    height: 15rem;
+}
+
+p.card-text {
+    padding: 0.5rem;
+    text-align: center;
+}
