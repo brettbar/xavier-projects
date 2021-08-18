@@ -1,0 +1,33 @@
+/*
+b1740f-Gold
+ffd07b-Orange Yellow Crayola
+fdb833-Honey Yellow
+296eb4-Spanish Blue
+1789fc-Dodger BLue
+*/
+body {
+    background-color: #1789fc;
+    margin: 0;
+}
+
+section#navigation {
+    background-color: #ffd07b;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    font-family: 'Odibee Sans';
+    font-size: 2rem;
+}
+
+h1#title {
+    font-size: 3.5rem;
+    margin: 1rem;
+}
+
+a.pages-link {
+    margin-left: .5rem;
+    margin-right: .5rem;
+    text-decoration: none;
+    color: inherit;
+}
