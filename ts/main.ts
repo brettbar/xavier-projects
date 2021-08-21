@@ -14,12 +14,12 @@ function dollarsToCents(dollars: number) {
 }
 
 // Returns whether or not a number is even
-function isEven() {
+function isEven(input: number) {
 
 }
 
 // Returns whether or not a number is odd
-function isOdd() {
+function isOdd(input: number) {
 
 }
 
